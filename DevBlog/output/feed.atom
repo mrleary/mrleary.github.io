@@ -4,6 +4,27 @@
 	<title>@mrleary - Matt Leary's Blog</title>
 	<link rel="self" href="https://mrleary.github.io/" />
 	<rights>All content © 2024 Matt Leary</rights>
-	<updated>2024-02-25T15:59:29Z</updated>
+	<updated>2024-02-25T16:08:19Z</updated>
 	<subtitle>Exploring the worlds of AI, data science, and software engineering</subtitle>
+	<entry>
+		<id>https://mrleary.github.io/posts/2024/02/25/hello-world</id>
+		<title>Hello World! 👋</title>
+		<link href="https://mrleary.github.io/posts/2024/02/25/hello-world" />
+		<link rel="enclosure" type="image" href="https://mrleary.github.io/" />
+		<updated>2024-02-25T00:00:00Z</updated>
+		<content>&lt;h1 id="welcome-to-my-blog"&gt;Welcome to My Blog&lt;/h1&gt;
+&lt;h2 id="about-me"&gt;About Me&lt;/h2&gt;
+&lt;p&gt;Hello, I’m Matt Leary—a passionate software developer with a keen interest in AI, data engineering, and software development. I typically work with Azure and .NET, but I’m not afraid to venture into other technologies and platforms. Through this blog, I aim to share my knowledge, insights, and experiences in these exciting fields.&lt;/p&gt;
+&lt;h2 id="what-to-expect"&gt;What to Expect&lt;/h2&gt;
+&lt;p&gt;Within these digital pages, you’ll discover a diverse array of articles, tutorials, and discussions covering topics such as:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Artificial Intelligence (AI) and its myriad applications&lt;/li&gt;
+&lt;li&gt;Data engineering techniques and best practices&lt;/li&gt;
+&lt;li&gt;Software development tips, tricks, and trends&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I firmly believe in the power of knowledge sharing—it’s how we elevate ourselves and empower others to reach their full potential. After all, true understanding often crystallizes when we teach what we’ve learned.&lt;/p&gt;
+&lt;p&gt;So, buckle up and embark on this journey of exploration. Happy reading! 🚀📚&lt;/p&gt;
+</content>
+		<summary>Exploring the Intersection of AI, Data Engineering, and Software Development</summary>
+	</entry>
 </feed>

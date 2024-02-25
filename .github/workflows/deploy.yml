@@ -37,7 +37,7 @@ jobs:
         uses: actions/setup-dotnet@v4
         with:
           dotnet-version: '8.0.x'
-      - run: dotnet run --project ./DevBlog/DevBlog.csproj -- -n
+      - run: dotnet run --project ./DevBlog/DevBlog.csproj
       - name: Setup Pages
         uses: actions/configure-pages@v4
       - name: Upload artifact
