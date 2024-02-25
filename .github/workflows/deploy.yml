@@ -35,14 +35,14 @@ jobs:
         uses: actions/setup-dotnet@v4
         with:
           dotnet-version: '8.0.x'
-      - run: dotnet run -- -n
+      - run: dotnet run --project ./DevBlog/DevBlog.csproj -- -n
       - name: Setup Pages
         uses: actions/configure-pages@v4
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
           # Upload the output directory
-          path: './output'
+          path: './DevBlog/output'
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
