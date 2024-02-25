@@ -4,13 +4,13 @@
 	<title>@mrleary - Matt Leary's Blog</title>
 	<link rel="self" href="https://mrleary.github.io/" />
 	<rights>All content © 2024 Matt Leary</rights>
-	<updated>2024-02-25T16:08:19Z</updated>
+	<updated>2024-02-25T17:17:02Z</updated>
 	<subtitle>Exploring the worlds of AI, data science, and software engineering</subtitle>
 	<entry>
 		<id>https://mrleary.github.io/posts/2024/02/25/hello-world</id>
 		<title>Hello World! 👋</title>
 		<link href="https://mrleary.github.io/posts/2024/02/25/hello-world" />
-		<link rel="enclosure" type="image" href="https://mrleary.github.io/" />
+		<link rel="enclosure" type="image" href="https://mrleary.github.io/images/ai_generated_glasses_on_beach.jpg" />
 		<updated>2024-02-25T00:00:00Z</updated>
 		<content>&lt;h1 id="welcome-to-my-blog"&gt;Welcome to My Blog&lt;/h1&gt;
 &lt;h2 id="about-me"&gt;About Me&lt;/h2&gt;

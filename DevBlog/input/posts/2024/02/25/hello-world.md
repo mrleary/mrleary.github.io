@@ -5,8 +5,8 @@ Tags:
     - Test
 Published: 2024-02-25
 Description: "Exploring the Intersection of AI, Data Engineering, and Software Development"
-Image: ""
-ImageAlt: ""
+Image: "images/ai_generated_glasses_on_beach.jpg"
+ImageAlt: "AI Generated Image of some glasses sitting on a beach."
 ---
 # Welcome to My Blog
 
