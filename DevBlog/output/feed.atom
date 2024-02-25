@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<id>https://mrleary.github.io/</id>
+	<title>@mrleary - Matt Leary's Blog</title>
+	<link rel="self" href="https://mrleary.github.io/" />
+	<rights>All content © 2024 Matt Leary</rights>
+	<updated>2024-02-25T15:59:29Z</updated>
+	<subtitle>Exploring the worlds of AI, data science, and software engineering</subtitle>
+</feed>

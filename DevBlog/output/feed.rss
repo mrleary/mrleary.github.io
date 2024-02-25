@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+	<channel>
+		<title>@mrleary - Matt Leary's Blog</title>
+		<link>https://mrleary.github.io/</link>
+		<description>Exploring the worlds of AI, data science, and software engineering</description>
+		<copyright>All content © 2024 Matt Leary</copyright>
+		<pubDate>Sun, 25 Feb 2024 15:59:29 GMT</pubDate>
+		<lastBuildDate>Sun, 25 Feb 2024 15:59:29 GMT</lastBuildDate>
+	</channel>
+</rss>
