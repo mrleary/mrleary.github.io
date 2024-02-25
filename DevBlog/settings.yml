@@ -1,0 +1,13 @@
+# Hosting settings
+Host: mrleary.github.io # Host name - GitHub pages
+LinksUseHttps: true # Whether to generate HTTPS links in archives etc. - usually true, of course
+
+# Branding
+SiteTitle: "@mrleary - Matt Leary's Blog"
+SiteDescription: "Exploring the worlds of AI, data science, and software engineering"
+Copyright: => @$"All content © {DateTime.Now.Year} Matt Leary"
+
+# Blog settings
+DateTimeInputCulture: "" # This determines the expected format for Published dates in posts - Empty string means invariant culture (yyyy-MM-dd format)
+DateTimeDisplayCulture: en-GB # This determines the format for displayed dates, e.g. in post headers and archive pages
+GenerateSearchIndex: true # Setting this to false disables both the search box in navigation bar and the search page
