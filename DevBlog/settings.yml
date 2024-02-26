@@ -12,6 +12,6 @@ DateTimeInputCulture: "" # This determines the expected format for Published dat
 DateTimeDisplayCulture: en-GB # This determines the format for displayed dates, e.g. in post headers and archive pages
 GenerateSearchIndex: false # Setting this to false disables both the search box in navigation bar and the search page
 CommentEngine: "giscus"
-GiscusRepoName: Config.FromSetting<string>("GISCUS_REPO_NAME")
-GiscusRepoId: Config.FromSetting<string>("GISCUS_REPO_ID")
-GiscusCategoryId: Config.FromSetting<string>("GISCUS_CATEGORY_ID")
+GiscusRepoName: => Config.FromSetting<string>(\"GISCUS_REPO_NAME\")"
+GiscusRepoId: "=> Config.FromSetting<string>(\"GISCUS_REPO_ID\")"
+GiscusCategoryId: "=> Config.FromSetting<string>(\"GISCUS_CATEGORY_ID\")"
