@@ -11,4 +11,4 @@ Copyright: => @$"All content © {DateTime.Now.Year} Matt Leary"
 DateTimeInputCulture: "" # This determines the expected format for Published dates in posts - Empty string means invariant culture (yyyy-MM-dd format)
 DateTimeDisplayCulture: en-GB # This determines the format for displayed dates, e.g. in post headers and archive pages
 GenerateSearchIndex: false # Setting this to false disables both the search box in navigation bar and the search page
-CommentEngine: giscus
+CommentEngine: "giscus"
